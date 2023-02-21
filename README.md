@@ -2,7 +2,7 @@
 
 [AWS Certified Solutions Architect – Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-[Exam Prep: AWS Certified Solutions Architect - Associate (SAA-C03)](https://explore.skillbuilder.aws/learn/course/14760)
+[Exam Prep: AWS Certified Solutions Architect - Associate (SAA-C03)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14760/exam-prep-aws-certified-solutions-architect-associate-saa-c03)
 
 [AWS Certified Solutions Architect Associate Exam - SAA-C03 Study Path](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03/)
 
@@ -19,5 +19,7 @@
 [AWS Solutions Architect Associate Certificate Cheat-sheets Series&#39; Articles - DEV Community 👩‍💻👨‍💻](https://dev.to/dvddpl/series/19869)
 
 [Study plan from DigitalCloud Training](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-SAA-C03-exam/blob/main/AWS%2BSolutions%2BArchitect%2BAssociate%2BStudy%2BPlan.pdf)
+
+[AWS Solutions Architect Associate (SAA C02) - Abdur's Notes](https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02)/)
 
 *Credits to owners...*
