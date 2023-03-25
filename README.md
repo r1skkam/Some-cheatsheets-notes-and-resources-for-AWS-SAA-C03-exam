@@ -23,4 +23,5 @@
 [AWS Solutions Architect Associate (SAA C02) - Abdur's Notes](https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02)/)
 
 [AWS Certified Solutions Architect - Associate SAA-C03 Exam – Free Exam Q&amp;As, Page 1 | ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/)
+
 *Credits to owners...*
