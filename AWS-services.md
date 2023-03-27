@@ -1,3 +1,15 @@
+https://aws.amazon.com/ec2/spot/
+
+https://aws.amazon.com/directconnect/
+
+https://aws.amazon.com/guardduty/
+
+https://aws.amazon.com/inspector/
+
+https://aws.amazon.com/dynamodb/dax/
+
+https://aws.amazon.com/elasticache/redis/
+
 [Credential Password Management - AWS Secrets Manager - Amazon Web Services](https://aws.amazon.com/secrets-manager/)
 ```Centrally manage the lifecycle of secrets```
 
@@ -32,7 +44,3 @@
 [Amazon S3 Intelligent-Tiering Storage Class | AWS](https://aws.amazon.com/s3/storage-classes/intelligent-tiering/)
 ```Automates storage cost savings by moving data when access patterns change```
 ![image](https://user-images.githubusercontent.com/58542375/227843534-42c709a9-e250-488f-bacc-6700ba1d44e3.png)
-
-https://aws.amazon.com/ec2/spot/
-
-https://aws.amazon.com/directconnect/
