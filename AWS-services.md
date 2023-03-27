@@ -25,9 +25,6 @@
 ```Deploy, scale, and run third-party virtual appliances```
 ![image](https://user-images.githubusercontent.com/58542375/227766237-c709ec08-f7e4-4bc0-8159-0455dfc7784b.png)
 
-[Amazon EBS fast snapshot restore - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-fast-snapshot-restore.html)
-```aws ec2 describe-volumes --filters Name=fast-restored,Values=true```
-
 [Fast NoSQL Key-Value Database – Amazon DynamoDB – Amazon Web Services](https://aws.amazon.com/dynamodb/)
 ```Fast, flexible NoSQL database service for single-digit millisecond performance at any scale```
 ![image](https://user-images.githubusercontent.com/58542375/227843190-976b7ffe-6578-4698-a8c8-1938c7a938b0.png)
@@ -36,3 +33,6 @@
 ```Automates storage cost savings by moving data when access patterns change```
 ![image](https://user-images.githubusercontent.com/58542375/227843534-42c709a9-e250-488f-bacc-6700ba1d44e3.png)
 
+https://aws.amazon.com/ec2/spot/
+
+https://aws.amazon.com/directconnect/
