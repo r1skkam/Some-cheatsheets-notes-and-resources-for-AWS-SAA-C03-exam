@@ -10,6 +10,8 @@ https://aws.amazon.com/dynamodb/dax/
 
 https://aws.amazon.com/elasticache/redis/
 
+https://aws.amazon.com/s3/storage-classes/
+
 [Credential Password Management - AWS Secrets Manager - Amazon Web Services](https://aws.amazon.com/secrets-manager/)
 ```Centrally manage the lifecycle of secrets```
 
