@@ -8,4 +8,3 @@ https://aws.amazon.com/s3/pricing/
 https://aws.amazon.com/efs/pricing/
 
 https://aws.amazon.com/ebs/pricing/
-
